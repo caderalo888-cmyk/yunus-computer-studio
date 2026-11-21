@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Yunus Studio</string>
+    <string name="studio_full_title">Yunus Computer Studio Pro</string>
+    <string name="studio_tagline">21 Offline Creative, Print, Audio &amp; Business Tools</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_business">Business</string>
+    <string name="nav_settings">Info</string>
+    <string name="search_modules_hint">Search 21 studio tools…</string>
+</resources>

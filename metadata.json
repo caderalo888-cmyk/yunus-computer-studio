@@ -1,0 +1,6 @@
+{
+  "name": "Yunus Studio",
+  "description": "Yunus Computer Studio Pro: Offline-first photo, print, PDF, document, graphic design, Bangla TTS, audio, QR, and studio business suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
